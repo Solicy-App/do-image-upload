@@ -22,7 +22,7 @@ let params = {
 s3.upload(params, function (err, data) {
   if (err) {
     console.log('Error: ' + err);
-    return
+    return;
   }
-  console.log('Success!', data)
+  console.log('Success!', data);
 })
