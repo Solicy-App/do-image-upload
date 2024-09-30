@@ -11,3 +11,6 @@ Image upload implementation for S3 BLOB storage and Digital Ocean
 Fill .env with S3/DO variables
 
 `npm start`
+
+## About
+This project is maintained by [Solicy Software and Blockchain Company](https://solicy.net/?utm_source=github&utm_medium=social)
